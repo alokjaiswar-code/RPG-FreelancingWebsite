@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-oak: #2d1f15;
+  --color-oak-light: #422e1f;
+  --color-oak-dark: #1a120b;
+
+  --color-brass: #c59b27;
+  --color-brass-light: #e5c158;
+  --color-brass-dark: #8a6a14;
+
+  --color-parchment: #f4ede2;
+  --color-parchment-shadow: #3d3228;
+
+  --shadow-plank: 0 4px 12px -2px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255, 255, 255, 0.1);
+}
